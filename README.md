@@ -1,7 +1,7 @@
 Convert Slurm nodes range expression to a list of nodes
 =======================================================
 
-*Takes Slurm nodes range expression and convert it to a python list of nodes or print it.*
+*Takes Slurm nodes range expression and convert it to a python list of nodes or print it as a seperated list of nodes.*
 
 This script was tested using python3 3.6.3
 
